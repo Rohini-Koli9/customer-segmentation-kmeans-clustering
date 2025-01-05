@@ -1,6 +1,3 @@
-# customer-segmentation-kmeans-clustering
-A machine learning project that performs customer segmentation using K-Means Clustering. The project demonstrates how to segment customers based on their behavior and characteristics to improve business decision-making.
-
 # Customer Segmentation KMeans Clustering
 
 This project demonstrates customer segmentation using the K-Means clustering algorithm. Customer segmentation is a powerful tool that helps businesses identify distinct customer groups based on their behavior and characteristics, enabling personalized marketing strategies and improved decision-making.
